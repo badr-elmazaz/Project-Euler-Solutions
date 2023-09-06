@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-![Project Euler Logo](https://projecteuler.net/themes/20201010/logo_default.png)
+![Project Euler Logo](https://projecteuler.net/images/clipart/euler_portrait.png)
 
 This repository contains my solutions for various problems from the [Project Euler](https://projecteuler.net/) platform. The solutions are provided for educational purposes and to encourage algorithmic thinking and problem-solving.
 
